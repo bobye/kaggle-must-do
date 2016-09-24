@@ -4,7 +4,7 @@
 
 - accelerate file IO: convert csv data to hdf5 or binary formatted file.  
 - impute missing data
-- reduce duplicates
+- reduce duplicates ( and convert duplicating counts to features)
 - remove non-representative samples (subsets that are not helpful in building models that generalize in the test data). 
 
 ## Data Explorative Analysis
