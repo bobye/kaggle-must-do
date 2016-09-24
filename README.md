@@ -10,7 +10,7 @@
 ## Data Explorative Analysis
 
 - categorical features: calculate mutual information with labels
-- numeric features:
+- numeric features: plot 1D distributions of different labels along each dimension.
 - date features:
 
 ## Model Setup
