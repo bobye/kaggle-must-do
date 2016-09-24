@@ -18,3 +18,11 @@
 - examinng train/test split, and create local validation w.r.t. that.
 - separate codes for feature engineering and model learning. 
 - choose the proper model to start with: XGB or RandomForest.
+
+## Feature Engineering
+
+- leave-one-out for categorical features (of high cardinality)
+- one-hot for categorical features of low cardinality.
+- create meaningful stratum, and treat it as a categorical variable
+- build dictionary learning for numerical features (of low dimensions)
+- feature selection: 
