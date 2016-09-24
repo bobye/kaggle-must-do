@@ -3,3 +3,14 @@
 ## Data Preprocessing
 
 - accelerate file IO: convert csv data to hdf5 or binary formatted file.  
+
+## Data Explorative Analysis
+
+- categorical features: calculate mutual information with labels
+- numeric features:
+- date features:
+
+## Model Setup
+
+- examinng train/test split, and create local validation w.r.t. that. 
+- choose the proper model to start with: XGB or RandomForest
