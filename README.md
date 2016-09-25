@@ -15,7 +15,7 @@
 
 ## Model Setup
 
-- examinng train/test split, and create local validation w.r.t. that.
+- examine train/test split, and create local validation w.r.t. that.
 - separate codes for feature engineering and model learning. 
 - choose the proper model to start with: XGB or RandomForest.
 
